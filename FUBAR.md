@@ -1,1 +1,4 @@
+ "This is what Bob (Caroline) & Carol (Brad) did, on Bob's (Caroline's) computer when working on the first feature" 
 
+ Carol writes something whitty, Bob is busy making burgers..kthxbi!
+ 
